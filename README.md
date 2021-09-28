@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **markok20/markok20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
